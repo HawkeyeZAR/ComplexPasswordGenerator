@@ -13,8 +13,7 @@ Password contains, uppercase, lowercase, digits and special characters.
 ----------
 
 
-Future version will have an options where you can choose how many of each character type you want to use.
-
+Future version will have an option where you can choose the number of characters you want to use for each type.
 Currently this has to be set inside the code.
 
-current values: 5 uppercase, 5 lower case, 3 digits and 3 special chars
+Current values: 5 uppercase, 5 lower case, 3 digits and 3 special chars
