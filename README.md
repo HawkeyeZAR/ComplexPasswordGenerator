@@ -8,8 +8,7 @@ Password contains, uppercase, lowercase, digits and special characters.
 
 ----------
 
-
-
+![This is an image](/ComplexPasswordGenerator/Untitled.jpg)
 
 ----------
 
